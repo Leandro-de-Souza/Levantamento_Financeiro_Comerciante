@@ -1,0 +1,2 @@
+# Levantamento_Financeiro_Comerciante
+O referido programa é capaz de fazer um levantamento financeiro para um comerciante. Para isto, basta digitar-se um conjunto de N mercadorias, cada uma contendo nome, preço de compra e preço de venda das mesmas. O programa lê tais dados e determina quais mercadorias proporcionam um lucro de 10%, quais um lucro entre 10% e 20% e quais proporcionam um lucro acima de 20%, mostrando também o valor total de compra e de venda de todas as mercadorias, assim como o lucro total.
